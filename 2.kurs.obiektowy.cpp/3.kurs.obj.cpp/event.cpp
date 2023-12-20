@@ -36,6 +36,6 @@ Event::Event(string n,int d,int m,int y,int h,int mins)
 
 Event::~Event()
 {
-   cout<<endl<<"To ja, destruktor sie nazywam";
-   cout<<" kasuje obiekty, slowa przepraszam nie uzywam";
+   cout<<endl<<"Destruktor,";
+   cout<<" kasuje obiekty";
 }
